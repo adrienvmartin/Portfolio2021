@@ -1,6 +1,8 @@
 const Video = () => {
   return (
-    <div></div>
+    <div>
+      This is the Video page
+    </div>
   )
 };
 

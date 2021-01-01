@@ -1,6 +1,8 @@
 const Photo = () => {
   return (
-    <div></div>
+    <div>
+      This is the Photo page
+    </div>
   )
 };
 
