@@ -1,7 +1,10 @@
 const Photo = () => {
   return (
     <div>
-      This is the Photo page
+      <h1>Photography</h1>
+      <p>
+        This is the Photography page text.
+      </p>
     </div>
   )
 };

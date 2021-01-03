@@ -1,7 +1,10 @@
 const Video = () => {
   return (
     <div>
-      This is the Video page
+      <h1>Video</h1>
+      <p>
+        This is the Video page text.
+      </p>
     </div>
   )
 };
